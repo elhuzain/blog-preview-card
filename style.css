@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'figtree';
+    src: url('./assets/fonts/static/Figtree-Medium.ttf'),
+         url('./assets/fonts/static/Figtree-ExtraBold.ttf');
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+    height: 100%;
+    background-color: #F4CF4E;
+
+    font-family: 'figtree';
+}
