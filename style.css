@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'figtree';
     src: url('./assets/fonts/static/Figtree-Medium.ttf'),
-         url('./assets/fonts/static/Figtree-ExtraBold.ttf');
+        url('./assets/fonts/static/Figtree-ExtraBold.ttf');
 }
 
 * {
@@ -19,4 +19,20 @@ body {
     background-color: #F4CF4E;
 
     font-family: 'figtree';
+}
+
+main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.article {
+    border: 1px solid #111111;
+    padding: 1.25rem;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 0px 1px black;
+    max-width: 380px;
 }
