@@ -2,6 +2,7 @@
     font-family: 'figtree';
     src: url('./assets/fonts/static/Figtree-Medium.ttf'),
         url('./assets/fonts/static/Figtree-ExtraBold.ttf');
+    font-weight: 500;
 }
 
 :root {
