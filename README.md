@@ -10,6 +10,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -37,3 +39,17 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### What I learned
+
+In this small project, I focused on exploring:
+
+BEM (Block-Element-Modifier) CSS styling pattern
+for example: `article__author`
+
+as well as conventional commits for git commits.
+for example: `docs: updated README.md`
+
+### Continued development
+
+I aim to continue using conventional commits as this convention really helped me organize my commits in an easy to understand manner
