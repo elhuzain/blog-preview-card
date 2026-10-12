@@ -4,6 +4,13 @@
          url('./assets/fonts/static/Figtree-ExtraBold.ttf');
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    font: inherit;
+    box-sizing: border-box;
+}
+
 body {
     display: flex;
     flex-direction: column;
