@@ -44,12 +44,14 @@ Users should be able to:
 
 In this small project, I focused on exploring:
 
-BEM (Block-Element-Modifier) CSS styling pattern
-for example: `article__author`
+BEM (Block-Element-Modifier) CSS styling pattern,
+for example: `article__author`.
 
-as well as conventional commits for git commits.
-for example: `docs: updated README.md`
+I also practiced using conventional commits for Git commits,
+for example: `docs: updated README.md`.
+
+I learned how Flexbox can center the card both horizontally and vertically by applying alignment properties to its parent container.
 
 ### Continued development
 
-I aim to continue using conventional commits as this convention really helped me organize my commits in an easy to understand manner
+I aim to improve my HTML and CSS accessibility skills by adding clear keyboard focus states and testing interactive elements without using a mouse.
