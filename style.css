@@ -112,5 +112,13 @@ main {
 
 .attribution a {
     color: var(--yellow);
-    font-weight: bold
+    font-weight: bold;
+
+    &:hover {
+        opacity: 0.5;
+    }
+
+    &:focus-visible {
+        outline: 2px solid var(--yellow);
+    }
 }
