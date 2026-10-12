@@ -42,10 +42,12 @@ main {
     border-radius: 20px;
     background-color: #FFFFFF;
     box-shadow: 7px 7px 0px 1px var(--gray-950);
+    max-width: 400px;
 }
 
 .article__image {
     border-radius: 10px;
+    width: 100%;
 }
 
 .article__tag {
